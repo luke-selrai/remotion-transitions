@@ -1,6 +1,6 @@
 ---
 name: remotion-transitions
-description: This skill should be used when the user asks to create custom Remotion transitions, asks about "cool transitions", "cinematic transitions", "striped transitions", "glitch transitions", "custom TransitionPresentation", or wants to build scene-to-scene transitions in Remotion beyond the built-in library. Also triggers for "how to make transitions in Remotion", "custom transition", "high-energy transitions", "energy transitions", "branded transitions".
+description: Use when the user wants custom Remotion scene-to-scene transitions beyond the built-in library. Triggers include "Remotion transition", "TransitionPresentation", "scene transition", "striped slam", "zoom punch", "diagonal reveal", "emerald burst", "vertical shutter", "glitch slam", "cinematic transitions", "high-energy transitions", "branded transitions", "cool Remotion transitions". Ships 6 battle-tested transitions with full source plus the TransitionPresentation API scaffold, easing math, and the linearTiming vs springTiming pairing rules.
 version: 1.0.0
 ---
 

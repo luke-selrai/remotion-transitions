@@ -26,8 +26,8 @@ npx skills add ashad001/remotion-transitions
 ```
 
 Or clone manually:
-```bash
-git clone https://github.com/ashad001/remotion-transitions
+```
+git clone https://github.com/ashad001/remotion-transitions  # Claude runs, NEVER user
 ```
 
 ## Skill triggers
